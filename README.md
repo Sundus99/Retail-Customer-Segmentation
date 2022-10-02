@@ -1,2 +1,2 @@
 # Retail-Customer-Segmentation
-Working on this project for an online course in data science. The purpose of the project is to determine if the customers fall under the ideal customer segment or not to prioritize them for strategic planning to help the business.
+Working on this project for an online course in data science. The purpose of the project is to determine if the customers fall under the ideal customer segment or not to prioritize them for strategic planning to help the business. View the data set at the following link: https://drive.google.com/file/d/1lOA76-zKxsVBxlU0etnbGzfQn446CUcI/view?usp=sharing the file size is too large to upload here.
